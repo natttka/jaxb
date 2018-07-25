@@ -1,0 +1,4 @@
+1. Zapoznaj się z plikiem students.xml.
+2. Stwórz projekt, w którym przy pomocy JAXB zmapujesz ten plik do odpowiedniej klasy w Javie.
+3. Napisz metodę która zwróci imię i nazwisko studenta z najwyższą średnią ocen.
+4. Pamiętaj o odpowiedniej strukturze projektu.
